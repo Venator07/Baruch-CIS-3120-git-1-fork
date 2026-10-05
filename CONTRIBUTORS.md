@@ -20,5 +20,5 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
-
+- **Syed Muhtadee** (GitHub: Venator07) | Harry Potter and the Prisoner of Azkaban
 
